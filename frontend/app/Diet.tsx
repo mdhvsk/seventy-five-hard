@@ -4,7 +4,7 @@ import { StyleSheet, View } from 'react-native'
 
 type Props = {}
 
-const Exercise = (props: Props) => {
+const Diet = (props: Props) => {
     return (
 
         <LinearGradient
@@ -19,7 +19,7 @@ const Exercise = (props: Props) => {
     )
 }
 
-export default Exercise
+export default Diet
 
 
 const styles = StyleSheet.create({

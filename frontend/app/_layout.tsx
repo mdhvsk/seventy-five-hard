@@ -12,6 +12,10 @@ export default function RootLayout() {
       <Stack.Screen name="Dashboard" options={{ headerShown: false }}/>
       <Stack.Screen name="Water" options={{headerTransparent: true}}/>
       <Stack.Screen name="Exercise" options={{headerTransparent: true}}/>
+      <Stack.Screen name="Diet" options={{headerTransparent: true}}/>
+      <Stack.Screen name="Reading" options={{headerTransparent: true}}/>
+      <Stack.Screen name="Photo" options={{headerTransparent: true}}/>
+
 
 
 

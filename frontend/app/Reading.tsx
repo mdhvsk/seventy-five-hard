@@ -4,7 +4,7 @@ import { StyleSheet, View } from 'react-native'
 
 type Props = {}
 
-const Water = (props: Props) => {
+const Reading = (props: Props) => {
     return (
 
         <LinearGradient
@@ -19,7 +19,7 @@ const Water = (props: Props) => {
     )
 }
 
-export default Water
+export default Reading
 
 
 const styles = StyleSheet.create({
